@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Justin, but my internet friends`(I think they are my friends)` call me Nugget 🐤
+I'm Justin, but my internet friends call me Nugget 🐤
 
-My journey with Web Development started from a BBQ conversation and a lot briskets 🥩 
+My journey with Web Development started from a BBQ conversation and a lot of briskets 🥩 
 
 
 - 🔭 I’m currently working on improving my skills in web developing
